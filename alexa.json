@@ -1,16 +1,16 @@
 [
 {
-  "uid": "",
+  "uid": "ALEXA_IDEA_IN5DAYS",
   "updateDate": "2019-01-16T03:44:00.0Z",
-  "titleText": "",
-  "mainText":"",
-  "redirectionUrl":""
+  "titleText": "This week in Alexa Skills development",
+  "mainText":"This week, we have some interesting releases from Alexa developer blogs. A new blog released in the to explain the experience of an Alexa Skills developer about a Google SPRINT kind of Idea to create design and validate a Alexa skill in 5 days. This is an interesting read. This us must read for Alexa Skills developers.",
+  "redirectionUrl":"https://developer.amazon.com/blogs/alexa/post/02732c1d-bab8-41fa-8afe-30d02d9a4280/hear-it-from-a-skill-builder-how-to-design-and-validate-an-alexa-skill-idea-in-5-days"
 },
 {
-  "uid": "",
+  "uid": "ALEXA_SPACE_EXPLORER_SKILL",
   "updateDate": "2019-01-16T04:44:00.0Z",
-  "titleText": "",
-  "mainText":"",
-  "redirectionUrl":""
+  "titleText": "This week in Space Explorer skill",
+  "mainText":"This week - developer Jon Mongan published a detailed blog post for explaining how to build the interaction model for his recent release of space explorer sample skill.",
+  "redirectionUrl":"https://developer.amazon.com/blogs/alexa/post/55a49999-21b1-4f66-a80a-cc9034ccc82e/alexa-skill-teardown-building-the-interaction-model-for-the-space-explorer-skill"
 }
 ]
