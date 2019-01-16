@@ -1,24 +1,15 @@
-[
-{
-  "uid": "ANDROID_REMINDER_CALLLOG_POLICY",
-  "updateDate": "2019-01-15T02:44:00.0Z",
-  "titleText": "Reminder about SMS & CALL LOG Policy changes",
-  "mainText":"In the recent blog post from Android developers blog, Google reminded the developers about saying 'The apps that are
-using SMS & CALL LOG permissions and if did not submitted the declaration form explaining why the apps needs excemption from the policy 
-enforcement will be removed from the store.' These are sensitive data, and google is going to restrict the apps that misusing the users
-sensitive data.",
-  "redirectionUrl":"https://android-developers.googleblog.com/2019/01/reminder-smscall-log-policy-changes.html"
-},
-{
-  "uid": "ANDROID_STUDIO_3.3_RELEASE",
-  "updateDate": "2019-01-16T01:44:00.0Z",
-  "titleText": "Android studio 3.3 release update is announced",
-  "mainText":"This week blogpost release, Android Studio team announced the new release of Android Studio 3.3. In this release, the important features to note down are,
-1. Now developers can delete the unused IDE directories through Android studio GUI.
-2. Improved incremental java compilation while using annotation processor
-3. Lazy task configuration for Gradle is one more notable feature.
-4. There is one more good news, Android app bundles now supports Instant Apps.
-There are more features announced in the tooling, testing and develop categories. You can check them out in the blog post.",
-  "redirectionUrl":"https://android-developers.googleblog.com/2019/01/android-studio-33.html"
-}
+[{
+		"uid": "ANDROID_REMINDER_CALLLOG_POLICY",
+		"updateDate": "2019-01-15T02:44:00.0Z",
+		"titleText": "Reminder about SMS & CALL LOG Policy changes",
+		"mainText": "In the recent blog post from Android developers blog, Google reminded the developers about saying 'The apps that are using SMS & CALL LOG permissions and if did not submitted the declaration form explaining why the apps needs excemption from the policy enforcement will be removed from the store.' These are sensitive data, and google is going to restrict the apps that misusing the users sensitive data.",
+		"redirectionUrl": "https://android-developers.googleblog.com/2019/01/reminder-smscall-log-policy-changes.html"
+	},
+	{
+		"uid": "ANDROID_STUDIO_3.3_RELEASE",
+		"updateDate": "2019-01-16T01:44:00.0Z",
+		"titleText": "Android studio 3.3 release update is announced",
+		"mainText": "This week blogpost release, Android Studio team announced the new release of Android Studio 3.3. In this release, the important features to note down are, Number one: Now developers can delete the unused IDE directories through Android studio GUI. Number two: Improved incremental java compilation while using annotation processor. Number three: Lazy task configuration for Gradle is one more notable feature. Number four: There is one more good news, Android app bundles now supports Instant Apps. There are more features announced in the tooling, testing and develop categories.You can check them out in the blog post.",
+		"redirectionUrl": "https://android-developers.googleblog.com/2019/01/android-studio-33.html"
+	}
 ]
